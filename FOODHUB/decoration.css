@@ -1,0 +1,35 @@
+dt{
+    background-color: rgb(6, 159, 255); text-align: center;
+    color: blanchedalmond; font-style: italic; font-family:Ravie;
+}
+body{
+    background-image: image-set("https://static.vecteezy.com/system/resources/thumbnails/004/584/977/small/beautiful-wood-background-with-text-space-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+b{
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+p{
+    color: white;
+    margin-left: 50px;
+}
+table{
+    color: azure;
+    border-color: aqua;
+    width:70%;
+    height: 10px;
+}
+th{
+    color: greenyellow;
+}
+header{
+    color: rgb(251, 255, 0);
+    animation-name: scroll;
+    animation-timing-function:step-start;
+    animation-duration: 5s;
+    animation-play-state: running;
+    animation-direction: right;
+}

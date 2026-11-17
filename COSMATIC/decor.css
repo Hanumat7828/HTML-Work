@@ -1,0 +1,33 @@
+body{
+    color:gray;
+    background-image: url('../Photos/Elegant\ Pink\ Beauty\ Cosmetics\ Banner.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+header{
+    text-align: center;
+    font-size: 100px;
+    color: rgb(2, 2, 2);
+    opacity: 0.5;
+}
+main{
+    font-size: x-large;
+    font-family: "Agrave Pro",cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+footer{
+    color: black;
+    font-size: larger;
+}
+#hanu{
+    background-image: url('../Photos/Dreamy\ Purple\ Floral\ Beauty\ Banner.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#hani1{
+    background: transparent;
+}
+
